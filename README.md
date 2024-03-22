@@ -6,7 +6,7 @@ Meu nome é Milena
 - Estou estudando na plataforma [Alura](https://cursos.alura.com.br/dashboard)
 - Estou aprendendo a programção na plataforma [Scratch](scratch.mit.edu)
 
- ![ ](https://media.tenor.com/0Kk9ExDnQLoAAAAj/petpet-bj-alex.gif)
+   ![ ](https://media.tenor.com/lcrB50xrOdkAAAAM/sukuna-ryomen-sukuna.gif)
 
 
 
